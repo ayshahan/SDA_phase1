@@ -1,0 +1,15 @@
+/Users/ayshah/SDA_phase1/obj/Debug/net5.0/SDA_phase1.csproj.AssemblyReference.cache
+/Users/ayshah/SDA_phase1/obj/Debug/net5.0/SDA_phase1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayshah/SDA_phase1/obj/Debug/net5.0/SDA_phase1.AssemblyInfoInputs.cache
+/Users/ayshah/SDA_phase1/obj/Debug/net5.0/SDA_phase1.AssemblyInfo.cs
+/Users/ayshah/SDA_phase1/obj/Debug/net5.0/SDA_phase1.csproj.CoreCompileInputs.cache
+/Users/ayshah/SDA_phase1/bin/Debug/net5.0/SDA_phase1.deps.json
+/Users/ayshah/SDA_phase1/bin/Debug/net5.0/SDA_phase1.runtimeconfig.json
+/Users/ayshah/SDA_phase1/bin/Debug/net5.0/SDA_phase1.runtimeconfig.dev.json
+/Users/ayshah/SDA_phase1/bin/Debug/net5.0/SDA_phase1.dll
+/Users/ayshah/SDA_phase1/bin/Debug/net5.0/ref/SDA_phase1.dll
+/Users/ayshah/SDA_phase1/bin/Debug/net5.0/SDA_phase1.pdb
+/Users/ayshah/SDA_phase1/obj/Debug/net5.0/SDA_phase1.dll
+/Users/ayshah/SDA_phase1/obj/Debug/net5.0/ref/SDA_phase1.dll
+/Users/ayshah/SDA_phase1/obj/Debug/net5.0/SDA_phase1.pdb
+/Users/ayshah/SDA_phase1/obj/Debug/net5.0/SDA_phase1.genruntimeconfig.cache
